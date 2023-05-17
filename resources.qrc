@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="img">
+    <file>img/background_width.png</file>
+    <file>img/start/logo.png</file>
+    <file>img/start/start.png</file>
+    <file>img/subprogram/fitness.png</file>
+    <file>img/subprogram/golf.png</file>
+    <file>img/subprogram/muscle.png</file>
+    <file>img/subprogram/pilates.png</file>
+    <file>img/subprogram/repair.png</file>
+    <file>img/subprogram/today.png</file>
+    <file>img/main_page/body.png</file>
+    <file>img/main_page/exercise.png</file>
+    <file>img/main_page/function.png</file>
+    <file>img/main_page/rom.png</file>
+    <file>img/main_page/trigger_point.png</file>
+    <file>img/main_page/walking.png</file>
+    <file>img/login_page/login.png</file>
+    <file>img/login_page/off.png</file>
+    <file>img/login_page/on.png</file>
+    <file>img/background.png</file>
+  </qresource>
+</RCC>
